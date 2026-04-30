@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I build practical AI systems using Python.<br>I have experience in developing solutions using LLMs, retrieval systems, and agent-based workflows.<br>Always seeking new opportunities to innovate and tackle complex challenges.</p>
+<p align="left">I build practical AI systems using Python.<br>I have experience in developing solutions using LLMs, retrieval systems, and agent-based workflows.<br>I'm always seeking new opportunities to innovate and tackle complex challenges.</p>
 
 ###
 
