@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Hey 👋</h1>
 
-<!--
-**Amine-Chebil/Amine-Chebil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Amine Chebil and I'm an AI engineer from Tunisia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I build practical AI systems using Python.<br>I have experience in developing solutions using LLMs, retrieval systems, and agent-based workflows.<br>Always seeking new opportunities to innovate and tackle complex challenges.</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
