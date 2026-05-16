@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">I build practical AI systems using Python.<br>I have experience in developing solutions using LLMs, retrieval systems, and agent-based workflows.<br>I'm always seeking new opportunities to innovate and tackle complex challenges.</p>
+<p align="left">AI Engineer specializing in agentic workflows, LLMs, and Python. Strong interest in data analysis and data-driven systems. Proficient in SQL, Power BI, and SSIS. I pay close attention to details and prioritize clean, well-structured outputs in every project. Always seeking new opportunities to build innovative solutions.  
+<br>
+Ps : AI used me to write this.</p>
 
 ###
 
